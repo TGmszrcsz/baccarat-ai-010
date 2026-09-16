@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：数据范围
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 009 篇 - 百家乐Ai预测分析工具：当页面总数重置时怎样保留上下文](https://github.com/TGmszrcsz/baccarat-ai-009) ｜ [下一篇：第 011 篇 - 百家乐Ai预测分析工具：把分类数量相加是最基础的核对](https://github.com/TGmszrcsz/baccarat-ai-011)
+
+<!-- article-chain:end -->
+
 一张结果截图缺少输入范围，后来很难重现。本篇围绕“为每份分析结果附上可复查的数据说明”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
